@@ -8,7 +8,6 @@ const connection = mysql.createConnection({
   password: "123456",
   database: "knexdb",
 });
-console.log(__dirname);
 
 //connect to database
 connection.connect(err => {
