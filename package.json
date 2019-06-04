@@ -1,0 +1,20 @@
+{
+  "name": "knex-migration",
+  "version": "1.0.0",
+  "description": "knex migration tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "knex",
+    "migration"
+  ],
+  "author": "Ankur",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.17.0",
+    "mysql": "^2.17.1"
+  }
+}
